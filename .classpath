@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/api-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/awt-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/cdi-api-2.0.SP1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-io-2.11.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/core-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/dom4j-2.1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/environment-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/impl-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jakarta.activation-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jakarta.xml.bind-api-3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javassist-3.28.0-GA.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.activation-api-1.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.el-api-3.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.inject-1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.interceptor-api-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.persistence-api-2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.4.0-b180830.0359.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jaxb-core-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jaxb-impl-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jcabi-log-0.14.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jcabi-manifests-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/manifest-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/model-0.1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/reflections-0.10.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.29.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/api-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/awt-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/core-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/environment-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/impl-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javassist-3.28.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javax.el-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jaxb-api-2.4.0-b180830.0359.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jaxb-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jaxb-impl-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jcabi-log-0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jcabi-manifests-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/manifest-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/model-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/reflections-0.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/himan_ziuxy8d/Downloads/jar_files/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
